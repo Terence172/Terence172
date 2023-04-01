@@ -40,15 +40,17 @@ def problem_solving(question) :
 
 <div class="row">
 <div class="column">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=terence172&show_icons=true&locale=en&layout=compact&theme=dark" alt="terence172" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=terence172&show_icons=true&locale=en&layout=compact&theme=dark" alt="terence172" /></p>
 </div>
 
 <div class="column">
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=terence172&show_icons=true&locale=en&theme=dark" alt="terence172" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=terence172&show_icons=true&locale=en&theme=dark" alt="terence172" /></p>
 </div></div>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=terence172&theme=dark" alt="terence172" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=terence172&theme=dark" alt="terence172" /></p>
 
+
+<!--
 <br><br>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=terence172&label=Profile%20views&color=0e75b6&style=flat" alt="terence172" /> </p>
+-->
