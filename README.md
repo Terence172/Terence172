@@ -1,10 +1,10 @@
 [![MasterHead](https://github.com/Terence172/Terence172/blob/main/images/Github%20Profile.gif)](https://github.com/Terence172)
 
-<p align="center">
-<h3>
+
+<h3 align="center">
 H3 that is center aligned
 </h3>
-</p>
+
 
 <br>
 
