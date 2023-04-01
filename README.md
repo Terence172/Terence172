@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Terence172/Terence172/blob/main/images/Github%20Profile1.gif)](https://github.com/Terence172)
+[![MasterHead](https://github.com/Terence172/Terence172/blob/main/images/Github%20Profile.gif)](https://github.com/Terence172)
 
 
 <h1 align="center">Hi 👋, I'm Terence</h1>
