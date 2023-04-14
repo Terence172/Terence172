@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **all things data** <p align="right"> <img src="https://komarev.com/ghpvc/?username=terence172&label=Profile%20views&color=0e75b6&style=flat" alt="terence172" /> </p>
+- 🌱 I’m currently learning **all things data** <span style="text-align:center;"> <img src="https://komarev.com/ghpvc/?username=terence172&label=Profile%20views&color=0e75b6&style=flat" alt="terence172" /> </span>
 - 📫 How to reach me ?  **terence@graduate.utm.my**
 
 
