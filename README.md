@@ -8,8 +8,8 @@
 
 <p align="center" width="100%">
   <p align="right"> <img src="https://komarev.com/ghpvc/?username=terence172&label=Profile%20views&color=0e75b6&style=flat" alt="terence172" /> </p>
-  - 🌱 I’m currently learning **all things data**
-  - - 📫 How to reach me ?  **terence@graduate.utm.my**
+  - 🌱 I’m currently learning **all things data**<br>
+  - 📫 How to reach me ?  **terence@graduate.utm.my**
 </p>
 
 
