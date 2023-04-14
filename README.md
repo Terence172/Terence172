@@ -51,5 +51,5 @@ def problem_solving(question) :
 
 
 <br>
-<p hidden align="left"> <img src="https://komarev.com/ghpvc/?username=terence172&label=Profile%20views&color=0e75b6&style=flat" alt="terence172" /> </p>
+<p hide align="left"> <img src="https://komarev.com/ghpvc/?username=terence172&label=Profile%20views&color=0e75b6&style=flat" alt="terence172" /> </p>
 
