@@ -49,7 +49,7 @@ def problem_solving(question) :
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=terence172&theme=dark" alt="terence172" /></p>
 
 
-<!--
+
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=terence172&label=Profile%20views&color=0e75b6&style=flat" alt="terence172" /> </p>
--->
+
