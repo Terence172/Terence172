@@ -9,7 +9,7 @@
 
 
 - 🌱 I’m currently learning **all things data** 
-- 📫 How to reach me ?  **terence@graduate.utm.my**
+- 📫 How to reach me ?  **terencenathan17@gmail.com**
 
 
 
